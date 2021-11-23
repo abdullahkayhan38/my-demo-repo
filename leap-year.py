@@ -2,7 +2,7 @@
 # To get year (integer input) from the user
 # This is my first explanation
 year = int(input("Enter a year: "))
-(emirhan)
+(emirhan)(bu dosya benden gelsin)
 if (year % 4) == 0:
     if (year % 100) == 0:
         if (year % 400) == 0:
