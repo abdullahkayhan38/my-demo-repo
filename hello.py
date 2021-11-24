@@ -1,1 +1,2 @@
+selamlar
 print("Hello World!")
